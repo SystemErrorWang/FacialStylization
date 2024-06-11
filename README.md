@@ -3,6 +3,6 @@
 <img src='figure1.jpg' align="left" width=1000>
 
 - This is a face stylization project developed during my spare time. 
-- Relevant paper is still under preparation. 
+- Paper is under review, we uploaded current version of paper and supp. 
 - Code and model may be publicly available after paper accepted.
 
